@@ -27,7 +27,7 @@
               "useProxy": true,
               "username": "jordanvolz",
               "accessToken": "9ba92541776f18b8c463177387d9d33a23322b75",
-              "repository": "jordanvolz/testrepo"
+              "repository": "jordanvolz/testrepo2"
             }
           }
         }
@@ -157,11 +157,11 @@
     }
   },
   "versionTag": {
-    "versionNumber": 0,
+    "versionNumber": 1,
     "lastModifiedBy": {
       "login": "admin"
     },
-    "lastModifiedOn": 1549309887532
+    "lastModifiedOn": 1549310244686
   },
   "creationTag": {
     "versionNumber": 0,
